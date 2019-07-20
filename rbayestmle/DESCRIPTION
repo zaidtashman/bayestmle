@@ -1,0 +1,10 @@
+Package: rbayestmle
+Type: Package
+Title: Bayesian Targeted Maximum Likelihood Estimation for Causal Inference
+Version: 0.1.0
+Author: Zaid Tashman
+Maintainer: Zaid Tashman <ztashman@gmail.com>
+Description: rbayestmle is a causal inference package that takes a bayesian approach to implement a targeted maximum likelhood estimation method.
+License: TBD
+Encoding: UTF-8
+LazyData: true
